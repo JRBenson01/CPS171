@@ -1,0 +1,30 @@
+Luke 
+Skywalker
+18 90
+Leia
+Organa
+18 90
+Han 
+Solo
+30 81
+Chewbacca
+Solo
+50 73
+Anakin
+Skywalker
+45 100
+Yoda
+Master
+1000 1000
+Obi-Wan
+Kenobi
+80 250
+Emperor
+Palpatine
+150 200
+C-3P0
+Human Cyborg Relations
+66 87
+R2D2
+Astro
+70 90
